@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#FDFCFA"/>
+  <circle cx="256" cy="256" r="168" fill="#FFF1ED"/>
+  <path d="M214 322V190h24v132h-24Z" fill="#E76F5E" opacity=".25"/>
+  <text x="256" y="300" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', sans-serif" font-size="132" font-weight="700" fill="#E76F5E">500</text>
+  <circle cx="342" cy="176" r="16" fill="#FF8B7B"/>
+</svg>
